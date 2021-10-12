@@ -8,3 +8,6 @@ Awesome List to Collect Ethereum Security Audit Resources and Links
 ## Tools
 * [Bentobox Security Checklist](https://github.com/sushiswap/bentobox/blob/master/documentation/checks.txt)
 * [Rari Security Checklist (expanded from Bentobox)](https://github.com/Rari-Capital/security-checklist)
+
+## Secureum
+* [Ethereum 101](https://secureum.substack.com/p/ethereum-101)
