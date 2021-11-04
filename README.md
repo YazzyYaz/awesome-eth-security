@@ -11,3 +11,5 @@ Awesome List to Collect Ethereum Security Audit Resources and Links
 
 ## Secureum
 * [Ethereum 101](https://secureum.substack.com/p/ethereum-101)
+* [Solidity 101](https://secureum.substack.com/p/solidity-101)
+* [Solidity 201](https://secureum.substack.com/p/solidity-201)
